@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Andrea (❁´◡`❁)</h1>
-<h3 align="center">Sr. Technical Artist (2D/3D-Generalist)</h3>
+<h1 align="center">Hi there 👋, I'm Andrea (❁´◡`❁)</h1>
+<h3 align="center">I'm a 2D/3D Technical Artist</h3>
 
-- 🔭 I’m currently working full-time for Simli, **trying to create digital humans that u can interact with.**
+- 🔭 Currently working full-time for Simli, **trying to create digital humans that u can interact with.**
 
 - 👨‍💻 dev-Kink: **Custom GUIs for multiple frameworks like Blender, Unity, Photoshop, but also Windows, VSCode, ComfyUI and more.**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andrea.cicero.studio.96@gmail.com**
 
-- 📄 my CV [https://drive.google.com/file/d/149ilIStS1sTsvmpmCoVBpPD3oeEBzwK2/view?usp=sharing](https://drive.google.com/file/d/149ilIStS1sTsvmpmCoVBpPD3oeEBzwK2/view?usp=sharing)
+- 📄 my CV [Andrea_Cicero_CV (1).pdf](https://github.com/Scaryplasmon/Scaryplasmon/files/14478420/Andrea_Cicero_CV.1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
