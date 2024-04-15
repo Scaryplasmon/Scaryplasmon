@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **andrea.cicero.studio.96@gmail.com**
 
-- 📄 my CV [Andrea_Cicero_CV (1).pdf](https://github.com/Scaryplasmon/Scaryplasmon/files/14478420/Andrea_Cicero_CV.1.pdf)
+- 📄 my CV [Andrea_Cicero_CV.pdf](https://github.com/Scaryplasmon/Scaryplasmon/files/14984595/Andrea_Cicero_CV.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
