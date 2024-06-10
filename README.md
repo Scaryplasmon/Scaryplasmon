@@ -5,7 +5,7 @@
 
 - 👨‍💻 dev-Kink: **Custom GUIs for multiple frameworks like Blender, Unity, Photoshop, but also Windows, VSCode, ComfyUI and more.**
 
-- 👽 projects available here and on [https://scaryplasmon.artstation.com/](https://scaryplasmon.artstation.com/)
+- 👽 artistic projects available here and on [https://scaryplasmon.artstation.com/](https://scaryplasmon.artstation.com/)
 
 - 📫 How to reach me **andrea.cicero.studio.96@gmail.com**
 
